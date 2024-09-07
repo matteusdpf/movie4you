@@ -15,6 +15,7 @@ Movie4You é uma aplicação web simples e intuitiva que te ajuda a encontrar se
 * **HTML:** A estrutura básica da página.
 * **CSS:** Responsável pelo visual da aplicação, deixando tudo bonitinho e organizado.
 * **JavaScript:** A mágica por trás da aplicação! É o JavaScript que faz a pesquisa, exibe os resultados e interage com o usuário.
+* **Gemini:** Utilizado para consultar através de prompts várias funções novas que foram utilizadas para deixar a aplicação mais funcional.
 
 ### Como usar este projeto:
 
